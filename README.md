@@ -14,5 +14,9 @@ This repository serves as:
 - A **collaborative space** to contribute notes, documentation, and utilities
 
 ---
+## Summer Experiences 🌴
+
+Each summer, undergraduate and graduate students from the jamunoz group participate in various internships across the country, including placements at national laboratories and leading universities.
+This repository is intended to gather and share those experiences, serving as a collaborative space for documenting insights, workflows, and lessons learned from these opportunities.
 
 
