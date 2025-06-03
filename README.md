@@ -26,7 +26,6 @@ Internship entries are organized **by year**, and each folder includes:
 
 - 📛 **Student Name**
 - 📍 **Institution or Lab**
-- ⏳ **Duration**
 - 📝 **Summary of Experience**
 - 📎 Presentation slides, posters, or reports
 
