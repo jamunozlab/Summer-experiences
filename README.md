@@ -20,7 +20,7 @@ Each summer, undergraduate and graduate students from the jamunoz group particip
 This repository is intended to gather and share those experiences, serving as a collaborative space for documenting insights, workflows, and lessons learned from these opportunities.
 
 ---
-## 📅 Organization Structure
+## Organization Structure 📅
 
 Internship entries are organized **by year**, and each folder includes:
 
